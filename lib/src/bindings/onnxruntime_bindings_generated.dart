@@ -2681,7 +2681,7 @@ abstract class NNAPIFlags {
   static const int NNAPI_FLAG_LAST = 8;
 }
 
-const int ORT_API_VERSION = 15;
+const int ORT_API_VERSION = 21;
 
 const String ORT_FILE =
     '/var/folders/s5/g1rm2nbs4v9btc3plv_ry7v00000gn/T/aJaMto/temp_for_macros.hpp';
